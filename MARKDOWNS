@@ -1,0 +1,157 @@
+# Markdown Key & Guide
+
+## Headings
+
+Markdown uses # symbols for headings. More # = smaller heading.
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+Example:
+
+Heading 1
+
+Heading 2
+
+Heading 3
+
+Heading 4
+
+
+---
+
+Text Styles
+
+Bold: **Bold Text**
+Example: Bold Text
+
+Italic: *Italic Text*
+Example: Italic Text
+
+Bold & Italic: ***Bold & Italic***
+Example: Bold & Italic
+
+
+---
+
+Lists
+
+Unordered List: Use * or -
+
+* Item 1
+* Item 2
+  * Subitem
+- Item 3
+
+Ordered List: Use numbers
+
+1. First item
+2. Second item
+3. Third item
+
+
+---
+
+Links
+
+[Link Text](https://openai.com/)
+
+Example: OpenAI
+
+
+---
+
+Images
+
+![Alt Text](https://example.com/image.jpg)
+
+Example:
+
+
+
+---
+
+Videos (embedded via link or HTML)
+
+Markdown itself doesn’t natively embed videos, but you can use a link:
+
+[Watch Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Or HTML embedding:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+
+---
+
+Blockquotes
+
+> This is a blockquote.
+
+Example:
+
+> This is a blockquote.
+
+
+
+
+---
+
+Code
+
+Inline Code: Use backticks `code`
+Example: console.log("Hello World");
+
+Code Block: Use triple backticks ```
+
+
+
+function hello() { console.log("Hello World"); }
+
+
+
+
+---
+
+Horizontal Line
+
+---
+
+Example:
+
+Tables
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+
+
+---
+
+Other Useful Markdown
+
+Task List:
+
+
+- [x] Completed Task
+- [ ] Incomplete Task
+
+Strikethrough:
+
+
+~~This is crossed out~~
+
+Example: 
+
+Footnotes:
+
+
+This is a sentence with a footnote.[^1]
+
+[^1]: This is the footnote text.
+
