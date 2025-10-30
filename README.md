@@ -35,7 +35,7 @@ Your neighborhood tech specialist
 
 ---
 
-For more details or to request a service, please visit our [website](https://quara-n-thangz.square.site/).
+For more details or to request a service, please visit our [website](https://quara-n-thangz.square.site/s/shop).
 
 ---
 
