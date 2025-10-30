@@ -1,1 +1,23 @@
-
+quaranthangz/
+├─ client/              # React Frontend
+│  ├─ public/
+│  │  └─ index.html
+│  ├─ src/
+│  │  ├─ pages/
+│  │  │  ├─ Home.jsx
+│  │  │  ├─ Services.jsx
+│  │  │  ├─ Spiritual.jsx
+│  │  │  ├─ Shop.jsx
+│  │  │  └─ Contact.jsx
+│  │  ├─ components/
+│  │  │  ├─ Header.jsx
+│  │  │  ├─ Footer.jsx
+│  │  │  └─ ServiceCard.jsx
+│  │  ├─ App.jsx
+│  │  ├─ index.js
+│  │  └─ tailwind.css
+│  └─ package.json
+├─ server/              # Express Backend
+│  ├─ index.js
+│  └─ package.json
+└─ package.json         # Root for concurrent dev
