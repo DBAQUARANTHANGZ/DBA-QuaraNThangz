@@ -1,7 +1,8 @@
-# DBA-QuaraNThangz
-Your neighborhood tech specialist
+# [Epiphany V Devon Hunt](https://www.facebook.com/Epiphanyvdevonhunt) 
+# Presents [Quara N Thangz](https://www.tiktok.com/@quaranthangztech)
+**Your neighborhood creative specialist**
 
-# Quara N Thangz Digital & Spiritual Services
+# Digital & Creative Services 
 
 ## Services Offered
 
@@ -23,30 +24,28 @@ Your neighborhood tech specialist
 - SEO Optimization ($300)
 - E-commerce Integration ($500)
 
-### Custom Tarot & Oracle Decks
-- **WTF Tarot Chronicles ($50)**
-- **90s R&B Queens Oracle Deck ($100)**
-- **Proverbs 31 Woman Deck ($150)**
+# Epiphany's Divine Insights'
 
-### Energy Balancing & Chakra Alignment
-- **Single Session ($90)**
-- **3 Sessions Package ($250)**
-- **5 Sessions Package ($400)**
+## Custom Tarot & Oracle Decks
 
----
+### - **WTF Tarot Chronicles ($50)**
+### - **90s R&B Queens Oracle Deck ($100)**
+### - **Proverbs 31 Woman Deck ($150)**
 
-For more details or to request a service, please visit our [website](https://quara-n-thangz.square.site/s/shop).
+## Energy Balancing & Chakra Alignment
 
----
+### - **Single Session ($90)**
+### - **3 Sessions Package ($250)**
+### - **5 Sessions Package ($400)**
 
-## Tech Stack
+**For more details or to request a service, please visit our [website](https://quara-n-thangz.square.site/s/shop).**
 
+# Tech Stack
 - React (Frontend)
 - Firebase (Auth + Firestore)
 - Tailwind CSS (Styling)
 - Stripe (Payments Integration)
 - Spotify API Toolkit (Optional Music Integration)
-
 ---
 
 ## Firebase Auth + Firestore Setup (Sample)
@@ -72,9 +71,7 @@ const auth = getAuth(app);
 const db = getFirestore(app);
 
 export { auth, db };
-```
 
----
 
 ## Components
 
@@ -195,8 +192,6 @@ export default function AdminDashboard() {
 }
 ```
 
----
-
 ## Firestore User Template
 ```json
 {
@@ -210,10 +205,24 @@ export default function AdminDashboard() {
 }
 ```
 
----
-
 ## Coming Soon
-- Stripe payment gateway integration
-- Spotify playlist toolkit based on spiritual mood
-- Ritual templates per deck
-- Admin controls to assign user rituals & manage spiritual services
+# - Stripe payment gateway integration
+# - Spotify playlist toolkit based on spiritual mood
+# - Ritual templates per deck
+# - Admin controls to assign user rituals & manage spiritual services
+
+# 🌬️🛡️🪞🔥🕊️👑
+# Quara N Thangz Creative Studio
+##### Founded by Epiphany Hunt – OKC
+##### 🎨✨🧠🔍🌟👩‍🎨🏢 | 🖌️💡👀🏆🌈🧑‍💼🌍 | 🎭🔑💭🌌👨‍🎤🏙️💫
+ 
+===================================================
+#### "Where Creativity Meets Healing"
+
+#### Quara N Thangz Creative Studio 
+#### We blends art, spirituality, and empowerment to create designs and healing tools that inspire, transform, and connect.
+#### Visuals:
+#### •	Full-width banner image: collage of your branding projects + healing decks.
+#### •	Icon row: 🎨 (Creativity) ✨ (Inspiration) 💡 (Innovation) 🌈 (Empowerment)
+
+
